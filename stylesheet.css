@@ -1,0 +1,17 @@
+.color-box {
+  width: 40px;
+  height: 40px;
+  margin-top: 5px;
+}
+.disabled-button {
+  background-color: black;
+}
+
+.out-of-stock {
+  text-decoration: line-through;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
